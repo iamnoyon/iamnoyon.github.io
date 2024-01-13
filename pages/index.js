@@ -29,7 +29,11 @@ const Home = () => {
           animate="show" 
           exit="hidden"
           className="h2">
+            {/*
+            Transforming Ideas <br/> Into{' '} <span className="text-accent">Digital Reality</span>
             Building Bridges <br/> in the{' '} <span className="text-accent">Data Universe</span>
+            */}
+            Sculpting Innovation <br/> with <span className="text-accent">Lines of Code</span> 
           </motion.h2>
 
           {/*subtitle*/}
@@ -39,7 +43,8 @@ const Home = () => {
           animate="show" 
           exit="hidden"
           className="max-w-sm xl:max-m-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-            As a Data Engineer, I specialize in Building Bridges that unite data landscapes, transforming complexity into strategic clarity in the vast Data Universe.
+            {/* As a Data Engineer, I specialize in Building Bridges that unite data landscapes, transforming complexity into strategic clarity in the vast Data Universe.*/}
+            Navigating the digital landscape with visionary expertise, I specialize in transforming complexity into strategic impact, shaping the future through <span className="text-white font-bold">innovative code.</span>
           </motion.p>
 
           {/* btn */}
