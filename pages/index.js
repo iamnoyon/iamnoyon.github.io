@@ -29,7 +29,7 @@ const Home = () => {
           animate="show" 
           exit="hidden"
           className="h2">
-            Transforming Ideas <br/> Into{' '} <span className="text-accent">Digital Reality</span>
+            Building Bridges <br/> in the{' '} <span className="text-accent">Data Universe</span>
           </motion.h2>
 
           {/*subtitle*/}
@@ -39,7 +39,7 @@ const Home = () => {
           animate="show" 
           exit="hidden"
           className="max-w-sm xl:max-m-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-            Exercitation in cupidatat velit dolor veniam voluptate culpa irure in consequat aliquip quis do eiusmod.
+            As a Data Engineer, I specialize in Building Bridges that unite data landscapes, transforming complexity into strategic clarity in the vast Data Universe.
           </motion.p>
 
           {/* btn */}
@@ -71,7 +71,7 @@ const Home = () => {
         animate="show" 
         exit="hidden"
         transition={{duration:1, ease:'easeInOut'}}
-        className="w-full h-full max-w-[500px] max-h-[400px] absolute -bottom-22 lg:bottom-0 lg:right-[8%]">
+        className="w-full h-full max-w-[500px] max-h-[400px] absolute -bottom-22 lg:bottom-0 lg:right-[12%]">
           <Avatar/>
         </motion.div>
       </div>
